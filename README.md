@@ -1,3 +1,3 @@
 # concurrent-sudoku-solver
 
-First attempt at concurrent programmning. 
+First attempt at concurrent programming.
